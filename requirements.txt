@@ -1,0 +1,10 @@
+numpy
+matplotlib
+nbsphinx
+cffi
+jupyter_client
+ipython
+pytest
+netifaces
+pandas
+pynq
